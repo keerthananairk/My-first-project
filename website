@@ -1,0 +1,209 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rubik&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+
+
+
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Style+Script&display=swap" rel="stylesheet">
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+
+
+
+    <title>Foodie</title>
+  </head>
+  <body>
+    <section id="nav-bar">
+
+<nav class="navbar navbar-expand-lg ">
+    <a class="navbar-brand" href="#"><img src="logo.png"></a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <i class="fa fa-bars"></i>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#home">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#special">Special</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#about">About Us</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#dishes">Dishes</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#contact">Contact</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+</section>
+
+
+<section class="main">
+	<div class="container py-5">
+     <div class="row py-4">
+     	<div class="col-lg-7 pt-5 text-center">
+        <p class="pt-5">FOOD THAT YOU CAN'T RESIST</p>
+        <h1>Enjoy the marvelous taste<h1>
+        <button class="btn-1 ">order now</button>
+
+      
+
+     	</div>
+     </div>
+
+	</div>
+ </section>
+
+  <section id="special">
+   <div class="container text-center">
+    <h1 class="title">SPECIAL</h1>
+    <div class="row">
+      <div class="col-sm-4">
+        <div class="card" style="width: 18rem;">
+  <img src="images/pexels-dana-tentis-262959.jpg" class="card-img-top">
+  <div class="card-body">
+    <h5 class="card-title">ABC</h5>
+    <p class="card-text">250RS</p>
+    <a href="#" class="btn btn-primary">Order now</a>
+  </div>
+</div>
+</div>
+<div class="col-sm-4">
+        <div class="card" style="width: 18rem;">
+  <img src="images/pexels-jonathan-borba-2983101.jpg" class="card-img-top">
+  <div class="card-body">
+    <h5 class="card-title">XYZ</h5>
+    <p class="card-text">200RS</p>
+    <a href="#" class="btn btn-primary">Order now</a>
+  </div>
+</div>
+</div>
+<div class="col-sm-4">
+        <div class="card" style="width: 18rem;">
+  <img src="images/pexels-rajesh-tp-1600711.jpg" class="card-img-top">
+  <div class="card-body">
+    <h5 class="card-title">MNO</h5>
+    <p class="card-text">350RS</p>
+    <a href="#" class="btn btn-primary">Order now</a>
+  </div>
+</div>
+
+
+
+
+</div>
+</div>
+</div>
+
+<div class="container text-center">
+    
+    <div class="row">
+      <div class="col-sm-4">
+        <div class="card" style="width: 18rem;">
+  <img src="images/pexels-iconcom-1234535.jpg" class="card-img-top">
+  <div class="card-body">
+    <h5 class="card-title">GHV</h5>
+    <p class="card-text">350RS</p>
+    <a href="#" class="btn btn-primary">Order now</a>
+  </div>
+</div>
+</div>
+
+
+<div class="col-sm-4">
+        <div class="card" style="width: 18rem;">
+  <img src="images/pexels-pixabay-60616.jpg" class="card-img-top">
+  <div class="card-body">
+    <h5 class="card-title">JGF</h5>
+    <p class="card-text">300RS</p>
+    <a href="#" class="btn btn-primary">Order now</a>
+  </div>
+</div>
+</div>
+<div class="col-sm-4">
+        <div class="card" style="width: 18rem;">
+  <img src="images/pexels-snapwire-675951.jpg" class="card-img-top">
+  <div class="card-body">
+    <h5 class="card-title">HGF</h5>
+    <p class="card-text">435RS</p>
+    <a href="#" class="btn btn-primary">Order now</a>
+  </div>
+</div>
+
+
+
+
+</div>
+</div>
+</div>
+  
+<section id="about" class="aboutus">
+   <div class="container text-center">
+    <h1 class="title">ABOUT US</h1>
+    <div class="row">
+      <div class="col-sm-6">
+        <p>When we opened 595 Craft and Kitchen in June 2017, our vision was to create an unassuming watering hole for the locals. In a town with endless options for bars and lounges, we found it challenging to find a friendly bar with a solid craft beer list, good food, and non-gaming/non-smoking. We wanted to provide friends and neighbors alike with the original form of social networking; a fun easy going bar, and a cold pint. Our staunch belief in providing exceptional quality products with friendly service in a clean and welcoming setting has helped us earn the reputation among the locals as one of the best hidden gems in Las Vegas.
+
+Arts District Kitchen is the culmination of giving our best to the community by providing great food, service, and atmosphere. Tucked inside one of the premier breweries in Nevada, this collaboration project allows us another opportunity to create a memorable setting for you to catch up with friends and make new ones over tasty bites and a refreshing beer.</p>
+
+      </div>
+      <div class="col-sm-6">
+        <img src="images/chef.jfif">
+    </div>
+  </div>
+</div>
+  
+</section>
+
+<section id="contact" class="container-fluid">
+  
+  <div class="heading text-center">
+    <h1><span>contact us</span></h1>
+  </div>
+
+  <div class="row justify-content-center">
+
+    <form action="" class="col-md-7">
+      <div class="inputBox">
+        <input type="text" required="">
+        <h3>Full name</h3>
+  </div>
+   <div class="inputBox">
+        <input type="email" required="">
+        <h3>E-mail</h3>
+  </div>
+   <div class="inputBox">
+        <textarea required="" name=""id="" cols="30" rows="10"></textarea>
+        <h3>message</h3>
+  </div>
+  <input type="submit" value="send">
+</form>
+
+</section>
+
+
+
+
+
+
+
+
+   
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+
+  </body>
+</html>
