@@ -1,0 +1,91 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.nav-bar{
+	background-color: black;
+}
+#nav-bar{
+position:fixed;
+top: 0;
+z-index: 10;
+background-color: #000;
+}
+.navbar-brand img{
+	height: 40;
+	padding-left: 20px;
+}
+.nav-link{
+	margin-right: 10px;
+	margin-left: 10px;
+	color: #000;
+	text-transform: uppercase;
+	font-family: 'Rubik', sans-serif;
+
+}
+.main{
+	background-image: url(images/bg-1.jpg);
+	height: 100vh;
+
+	background-size: cover;
+    
+}
+.main p{
+	font-size: 4rem;
+	font-weight: 700;
+	font-family: 'Rubik',sans-serif;
+
+}
+.main h1{
+font-size: 4rem;
+	font-weight: 700;
+	font-family: 'Style Script', cursive;
+}
+.btn-1{
+	height: 45px;
+	width: 35%;
+	border: none;
+	outline: none;
+	background-color: rgb(248,26,92);
+	color: #fff;
+	font-size: 40px;
+	font-weight: 700;
+	border-radius: 60px;
+}
+.title::before{
+	content: '';
+   
+    height: 5px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    }
+ 
+
+   
+    #contact{
+min-height: 100vh;
+width: 100vw;
+background-image: url(images/pexels-pixabay-326279.jpg);
+background-size: cover;
+background-position: center;
+    }
+    
+    form{
+    	background: #fff;
+    	padding-top: 2rem;
+    	margin: 1rem 2rem;
+    	border-radius: 1rem;
+    	box-shadow: 0 0 2rem #333;
+
+
+    }
+    .inputBox{
+    	position: relative;
+    	text-align: center;
+    }
+
+    
+    }
